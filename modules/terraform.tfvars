@@ -1,4 +1,4 @@
-bucket    = "kajalmi"
+bucket    = "kajalmishra"
 
 role_name = "myrole"
 
