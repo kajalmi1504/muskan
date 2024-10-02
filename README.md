@@ -1,4 +1,5 @@
 GITHUB ACTIONS AUTOMATION
+
 This guide provides step-by-step instructions for the GitHub Actions to automatically create an AWS EC2 instance whenever a commit is made to a GitHub repository, using Terraform code.
 
 Create an IAM user by providing EC2 permissions, also generate access keys to the user.
